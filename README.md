@@ -1,9 +1,5 @@
-### Hi there 👋
 
 
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working in a Startup(UPED) as a Backend Developer
 - 🌱 I’m currently learning Flutter | Reactjs

@@ -1,4 +1,5 @@
 
+<img src="https://user-images.githubusercontent.com/55989361/128639226-1ce666a4-e3a6-4400-bb02-96ca55cb99f9.gif" alt="side Image" align="center" width="800" height="auto" />
 
 
 - 🔭 I’m currently working in a Startup(UPED) as a Backend Developer
